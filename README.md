@@ -7,5 +7,5 @@ As a United Nations Volunteer, I put together a web analytics packet for a chari
 ## **[Madison Horn for Senate- Primary Election Results Breakdown Pivot Tables](https://github.com/elisabethdeltoro/code-free-projects/blob/main/Oklahoma%20Primary%20Project%20Pivot%20Tables.xlsx)**
 As a Bluebonnet Data Fellow, I contributed to several projects for the Madison Horn campaign in Oklahoma. For this project, the campaign was interested in Republican Primary Election results. I provided simple analysis for a rapid turnaround in these pivot tables.
 
-## Newsletter Lifetime Value Case Study - Excel Sheet
-Many businesses utilize paid and unpaid newsletter subscriptions as a way to engage their audience. In this project I sought to explore the limits of what Excel alone could provide in terms of clarity and readability, since it is a program many people outside the data sphere are comfortable in. I compiled the estimated lifetime earning potential of a newsletter audience year over year.
+## **[Newsletter Lifetime Value Case Study - Excel Sheet](https://github.com/elisabethdeltoro/code-free-projects/blob/main/Newsletter%20Subscription%20Analysis.xlsx)**
+Many businesses utilize paid and unpaid newsletter subscriptions as a way to engage their audience. In this project I sought to explore what Excel alone could provide in terms of clarity and readability, since it is a program many people outside the data sphere are comfortable in. I compiled and compared the estimated growth and earning potential of two newsletter audiences over the course of their first year. 
